@@ -1,10 +1,19 @@
-# 📊 E-Commerce Sales & Profitability Analysis
+# 📊 UrbanMart — E-commerce Sales & Profitability Analytics
+
+## 🏢 About UrbanMart
+
+UrbanMart is a multi-category online retail business that sells a wide range of everyday lifestyle and consumer products through multiple digital sales channels.
+
+Its product portfolio includes categories such as Food & Beverage, Fitness, Home & Lifestyle, Electronics & Accessories, and other consumer products. Customers can purchase products through Shopee, Lazada, UrbanMart's website, and WhatsApp.
+
+As UrbanMart operates across multiple product categories, regions, and sales channels, the business generates a diverse range of transactional data that can be used to evaluate its overall commercial performance.
+
 
 ## 📌 Project Overview
 
-This project analyses e-commerce transaction data to evaluate **sales performance, product and regional performance, customer value, discount effectiveness, and profitability**.
+This project analyses UrbanMart's e-commerce transaction data to evaluate sales performance, product and regional performance, customer value, discount effectiveness, and profitability.
 
-The project follows an end-to-end data analytics workflow, from **data profiling and cleaning to exploratory analysis, KPI development, dashboard creation, and business recommendations**.
+The project follows an end-to-end data analytics workflow, from data profiling and cleaning to exploratory data analysis, KPI development, data modelling, dashboard creation, and business recommendations.
 
 ---
 
@@ -30,17 +39,9 @@ The objective is to transform raw transactional data into **actionable business 
 
 ## ❓ Problem Statement
 
-The company has a large volume of e-commerce transaction data but lacks a consolidated view of its **sales performance and profitability**.
+### Business Problem / Objective
 
-Management needs to understand:
-
-- How is the company's overall sales performance?
-- Which products and categories are driving revenue and profit?
-- Which regions perform best, and where are the opportunities?
-- Who are the highest-value customers?
-- How concentrated is revenue among high-value customers?
-- Are discounts increasing sales without negatively affecting profitability?
-- What factors are driving profit and profit margin?
+UrbanMart wants to better understand its sales and profitability performance across products, categories, regions, and customers. As sales are generated through multiple products and channels, the company needs a data-driven analysis to identify what drives revenue and profit, understand customer and regional performance, and evaluate the impact of discounts on sales and profitability. The analysis will provide actionable insights to support better pricing, product, customer, and sales strategies.
 
 ### Main Problem Statement
 
@@ -92,12 +93,10 @@ This analysis aims to answer the following questions:
 
 1. What are the overall sales and profitability trends?
 2. Which categories and products generate the most revenue and profit?
-3. Which regions are performing the best?
-4. Which customers contribute the most revenue?
-5. How concentrated is revenue among high-value customers?
-6. Do higher discounts increase sales volume?
-7. Do discounts negatively affect AOV and profitability?
-8. What factors are associated with higher profit margins?
+3. Which regions are performing the best and where are the opportunities?
+4. Which customers contribute the most revenue, and how concentrated is revenue among high-value customers?
+5. Do higher discounts increase sales volume without negatively affecting AOV and profitability?
+6. What factors are associated with higher profit margins?
 
 ---
 
