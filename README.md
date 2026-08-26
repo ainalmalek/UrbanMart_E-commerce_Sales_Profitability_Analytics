@@ -91,12 +91,12 @@ Analyse business performance across the available reporting period.
 
 This analysis aims to answer the following questions:
 
-1. What are the overall sales and profitability trends?
-2. Which categories and products generate the most revenue and profit?
-3. Which regions are performing the best and where are the opportunities?
-4. Which customers contribute the most revenue, and how concentrated is revenue among high-value customers?
-5. Do higher discounts increase sales volume without negatively affecting AOV and profitability?
-6. What factors are associated with higher profit margins?
+1. How is UrbanMart's overall sales and profitability performance?
+2. Which products and categories are driving revenue and profit?
+3. Which regions and sales channels perform best, and where are the opportunities for improvement?
+4. Which customer segments contribute the most to UrbanMart’s sales and profitability?
+5. How does discounting affect revenue and profitability?
+6. What are the key drivers of UrbanMart's profitability, and where should the business focus to improve performance?
 
 ---
 
@@ -122,7 +122,6 @@ Data preparation was performed using **Power Query**, including:
 - Handling missing values
 - Standardising text values
 - Correcting data types
-- Cleaning customer names
 - Standardising category names
 - Handling unknown values
 - Validating numerical columns
