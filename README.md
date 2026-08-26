@@ -313,7 +313,6 @@ UrbanMart's profitability is strongly supported by high-performing categories, p
 
 **Recommendation**  
 Maintain inventory and marketing focus on high-performing **Electronics products**, particularly the **Monitor 24-inch**, while strengthening market presence in **Selangor**. Review **Beauty's pricing, product mix, discounting, and cost structure** to identify opportunities to improve its low profit margin.
----
 
 ---
 
