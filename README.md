@@ -236,86 +236,84 @@ The dashboard provides a consolidated overview of the company's e-commerce perfo
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
-### Finding 1 — Revenue Concentration
+### 1. Strong Overall Profitability
 
-**Category X** generated **XX%** of total revenue, making it the company's largest revenue contributor.
+**Key Finding**  
+UrbanMart generated **RM799.36K in sales and RM210.25K in profit**, achieving an overall **26.30% profit margin**. This indicates that the business is generating healthy profitability across its overall sales performance.
 
-### Finding 2 — Regional Performance
+**Business Impact**  
+The healthy profit margin indicates that UrbanMart is not only generating substantial sales but also converting a meaningful portion of its revenue into profit, providing a solid foundation for sustainable growth.
 
-**Region A** generated the highest revenue, while **Region B** recorded the highest AOV.
-
-### Finding 3 — Customer Value
-
-A relatively small group of high-value customers contributed a significant proportion of total revenue, highlighting the importance of customer retention.
-
-### Finding 4 — Discount Impact
-
-Higher discount levels increased order volume but did not result in a proportional increase in AOV, suggesting that aggressive discounting may not always translate into higher customer value.
-
-### Finding 5 — Profitability
-
-**Category X / Product X** generated strong revenue and profit, making it an important area for inventory and promotional planning.
-
-> **Note:** Final percentages and findings will be updated based on the completed analysis.
+**Recommendation**  
+Maintain the current profitability level by monitoring **costs, discounts, and product margins** while prioritising growth strategies that increase sales without significantly reducing profit margins.
 
 ---
 
-## 🎯 Business Recommendations
+### 2. Electronics is the Core Category, While Beauty Underperforms
 
-| Finding | Recommendation |
-|---|---|
-| High-performing category contributes significant revenue | Prioritise inventory availability and targeted promotions |
-| High-value customers contribute a large share of revenue | Develop targeted retention and loyalty strategies |
-| Certain regions have high order volume but lower AOV | Introduce cross-selling and bundle strategies |
-| Higher discounts increase volume but may reduce value | Optimise discount levels based on profitability |
-| Certain products generate strong profit | Prioritise these products in inventory and marketing decisions |
+**Key Finding**  
+**Electronics** was the strongest category, generating **RM324.95K in sales, approximately RM91K in profit, and the highest profit margin at 28.07%**. In contrast, **Beauty generated approximately RM49K in sales and RM7K in profit**, with a significantly lower **14.08% margin**.
+
+**Business Impact**  
+Electronics is a major contributor to UrbanMart's revenue and profitability, while Beauty represents an underperforming category that may be limiting overall growth and profitability.
+
+**Recommendation**  
+Maintain strong inventory availability and marketing visibility for **Electronics**, while reviewing **Beauty's pricing, product mix, discounting, and cost structure** to identify opportunities for improving sales and profitability.
 
 ---
 
-## 📌 Business Impact
+### 3. Monitor 24-inch is the Key Product
 
-### Revenue Growth
+**Key Finding**  
+The **Monitor 24-inch** was the top-performing individual product, ranking first in both **sales at approximately RM113K** and **profit at approximately RM39K**.
 
-Increase revenue by focusing on:
+**Business Impact**  
+The product makes a significant contribution to UrbanMart's overall sales and profit, making its performance important to the business's continued revenue generation.
 
-- High-performing categories
-- High-value customers
-- Strong-performing products
-- Regional opportunities
+**Recommendation**  
+Prioritise **stock availability and demand monitoring** for the Monitor 24-inch while maintaining its visibility through appropriate marketing and promotional activities. Its strong performance can also provide a benchmark for identifying similar high-potential products.
 
-### Customer Retention
+---
 
-Focus on:
+### 4. Selangor is the Strongest Identifiable Market
 
-- High-value customers
-- Repeat customers
-- Customer segmentation
-- Targeted retention strategies
+**Key Finding**  
+**Selangor** generated **RM201.01K in sales, RM55.02K in profit, and 482 orders**, making it the strongest identifiable region in UrbanMart's dataset.
 
-### Marketing Efficiency
+**Business Impact**  
+Selangor represents a major contribution to UrbanMart's sales and profitability, making it an important market for sustaining overall business performance.
 
-Improve:
+**Recommendation**  
+Maintain and strengthen market presence in **Selangor** through targeted marketing, product availability, and customer-focused strategies while exploring opportunities to improve performance in other regions.
 
-- Promotion targeting
-- Discount strategy
-- Product promotion
-- Customer targeting
+---
 
-### Inventory Planning
+### 5. Consumer Segment is the Core Customer Base
 
-Prioritise:
+**Key Finding**  
+Consumer customers generated **RM422.93K in net sales and RM113.25K in profit**, contributing approximately **68% of both total sales and profit**. Small Business followed with **RM125.69K in sales**, while Corporate contributed **RM70.28K**. This indicates that UrbanMart's overall performance is heavily driven by Consumer customers.
 
-- High-demand products
-- High-revenue categories
-- High-profit products
+**Business Impact**  
+UrbanMart is highly dependent on the Consumer segment, making customer retention and repeat purchases within this segment important to sustaining revenue. At the same time, the lower contribution from Corporate and Small Business segments presents an opportunity to diversify the customer base.
 
-### Decision Making
+**Recommendation**  
+Strengthen **Consumer-focused retention and promotional strategies** while developing targeted offerings for **Corporate and Small Business segments** to diversify revenue sources and reduce dependency on a single customer segment.
 
-Provide management with a consolidated view of:
+---
 
-**Revenue + Customers + Products + Regions + Profitability**
+### 6. Key Drivers of Profitability and Areas for Improvement
+
+**Key Finding**  
+UrbanMart generated **RM210.25K in profit with a 26.30% overall profit margin**. **Electronics** was the strongest category, generating **RM324.95K in sales** with the highest **28.07% profit margin**, while the **Monitor 24-inch** was the top individual product, contributing approximately **RM113K in sales and RM39K in profit**. In contrast, **Beauty** underperformed, generating approximately **RM49K in sales** with a low **14.08% profit margin**. **Selangor** was also the strongest identifiable market, contributing **RM201.01K in sales and RM55.02K in profit**.
+
+**Business Impact**  
+UrbanMart's profitability is strongly supported by high-performing categories, products, and markets. However, the significant performance gap between Electronics and Beauty indicates potential profitability and growth opportunities within underperforming areas.
+
+**Recommendation**  
+Maintain inventory and marketing focus on high-performing **Electronics products**, particularly the **Monitor 24-inch**, while strengthening market presence in **Selangor**. Review **Beauty's pricing, product mix, discounting, and cost structure** to identify opportunities to improve its low profit margin.
+---
 
 ---
 
