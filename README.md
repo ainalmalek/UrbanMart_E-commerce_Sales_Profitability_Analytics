@@ -199,17 +199,12 @@ Additional profitability metrics were also analysed:
 
 The dashboard provides a consolidated overview of the company's e-commerce performance.
 
-### Key Performance Indicators
+<img width="2024" height="1134" alt="Screenshot 2026-08-22 234552" src="https://github.com/user-attachments/assets/2de311ec-f202-4ef7-a128-0162f5033097" />
 
-| KPI | Description |
-|---|---|
-| 💰 Total Revenue | Overall revenue generated |
-| 🛒 Total Orders | Number of orders |
-| 👥 Unique Customers | Number of customers |
-| 📦 Total Quantity | Total units sold |
-| 💵 AOV | Average revenue per order |
-| 📈 Total Profit | Overall profit generated |
-| 📊 Profit Margin | Profitability percentage |
+<img width="1956" height="1094" alt="Dashboard p2(2)" src="https://github.com/user-attachments/assets/cc4f2a19-fb8a-4d8a-95c3-22893a2add42" />
+
+<img width="2018" height="1142" alt="Dashboard p3(3)" src="https://github.com/user-attachments/assets/69fd3a93-c0ea-4bbb-a8d0-08d7f03636a8" />
+
 
 ### Dashboard Visuals
 
