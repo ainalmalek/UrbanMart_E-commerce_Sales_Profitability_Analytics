@@ -94,9 +94,7 @@ This analysis aims to answer the following questions:
 1. How is UrbanMart's overall sales and profitability performance?
 2. Which products and categories are driving revenue and profit?
 3. Which regions and sales channels perform best, and where are the opportunities for improvement?
-4. Which customer segments contribute the most to UrbanMart’s sales and profitability?
-5. How does discounting affect revenue and profitability?
-6. What are the key drivers of UrbanMart's profitability, and where should the business focus to improve performance?
+4. What are the key drivers of UrbanMart's profitability, and where should the business focus to improve performance?
 
 ---
 
@@ -160,16 +158,8 @@ Additional profitability metrics were also analysed:
 
 - Revenue by Month
 - Revenue by Category
-- Revenue by Product
 - Revenue by Region
 - Revenue by Sales Channel
-
-### Customer Analysis
-
-- Revenue by Customer
-- Orders by Customer
-- Customer Segmentation
-- High-Value Customer Contribution
 
 ### Product Analysis
 
@@ -182,52 +172,28 @@ Additional profitability metrics were also analysed:
 
 - Revenue by Region
 - Orders by Region
-- AOV by Region
 - Profit by Region
-
-### Discount Analysis
-
-- Discount vs Orders
-- Discount vs Revenue
-- Discount vs AOV
-- Discount vs Profit
-- Discount vs Profit Margin
 
 ---
 
-## 📈 Dashboard
+## 📈 Dashboard Visuals
 
 The dashboard provides a consolidated overview of the company's e-commerce performance.
 
+### Page 1 : Executive Sales Overview
+
 <img width="2024" height="1134" alt="Screenshot 2026-08-22 234552" src="https://github.com/user-attachments/assets/2de311ec-f202-4ef7-a128-0162f5033097" />
+
+
+### Page 2 : Product & Profitability
 
 <img width="1956" height="1094" alt="Dashboard p2(2)" src="https://github.com/user-attachments/assets/cc4f2a19-fb8a-4d8a-95c3-22893a2add42" />
 
+
+### Page 3 : Regional, Channel & Business Opportunity
+
 <img width="2018" height="1142" alt="Dashboard p3(3)" src="https://github.com/user-attachments/assets/69fd3a93-c0ea-4bbb-a8d0-08d7f03636a8" />
 
-
-### Dashboard Visuals
-
-**1. Monthly Revenue Trend**  
-→ Are sales increasing or decreasing over time?
-
-**2. Revenue by Category**  
-→ Which categories are the main revenue drivers?
-
-**3. Top 10 Products**  
-→ Which products contribute the most revenue?
-
-**4. Revenue by Region**  
-→ Which markets are performing best?
-
-**5. Customer Segment**  
-→ Which customer groups create the most value?
-
-**6. Discount vs AOV / Orders**  
-→ Is discounting effectively increasing sales?
-
-**7. Profitability Analysis**  
-→ Which products and categories generate the highest profit?
 
 ---
 
@@ -246,7 +212,7 @@ Maintain the current profitability level by monitoring **costs, discounts, and p
 
 ---
 
-### 2. Electronics is the Core Category, While Beauty Underperforms
+### 2a. Electronics is the Core Category, While Beauty Underperforms
 
 **Key Finding**  
 **Electronics** was the strongest category, generating **RM324.95K in sales, approximately RM91K in profit, and the highest profit margin at 28.07%**. In contrast, **Beauty generated approximately RM49K in sales and RM7K in profit**, with a significantly lower **14.08% margin**.
@@ -259,7 +225,7 @@ Maintain strong inventory availability and marketing visibility for **Electronic
 
 ---
 
-### 3. Monitor 24-inch is the Key Product
+### 2b. Monitor 24-inch is the Key Product
 
 **Key Finding**  
 The **Monitor 24-inch** was the top-performing individual product, ranking first in both **sales at approximately RM113K** and **profit at approximately RM39K**.
@@ -272,7 +238,7 @@ Prioritise **stock availability and demand monitoring** for the Monitor 24-inch 
 
 ---
 
-### 4. Selangor is the Strongest Identifiable Market
+### 3. Selangor is the Strongest Identifiable Market
 
 **Key Finding**  
 **Selangor** generated **RM201.01K in sales, RM55.02K in profit, and 482 orders**, making it the strongest identifiable region in UrbanMart's dataset.
@@ -285,20 +251,7 @@ Maintain and strengthen market presence in **Selangor** through targeted marketi
 
 ---
 
-### 5. Consumer Segment is the Core Customer Base
-
-**Key Finding**  
-Consumer customers generated **RM422.93K in net sales and RM113.25K in profit**, contributing approximately **68% of both total sales and profit**. Small Business followed with **RM125.69K in sales**, while Corporate contributed **RM70.28K**. This indicates that UrbanMart's overall performance is heavily driven by Consumer customers.
-
-**Business Impact**  
-UrbanMart is highly dependent on the Consumer segment, making customer retention and repeat purchases within this segment important to sustaining revenue. At the same time, the lower contribution from Corporate and Small Business segments presents an opportunity to diversify the customer base.
-
-**Recommendation**  
-Strengthen **Consumer-focused retention and promotional strategies** while developing targeted offerings for **Corporate and Small Business segments** to diversify revenue sources and reduce dependency on a single customer segment.
-
----
-
-### 6. Key Drivers of Profitability and Areas for Improvement
+### 4. Key Drivers of Profitability and Areas for Improvement
 
 **Key Finding**  
 UrbanMart generated **RM210.25K in profit with a 26.30% overall profit margin**. **Electronics** was the strongest category, generating **RM324.95K in sales** with the highest **28.07% profit margin**, while the **Monitor 24-inch** was the top individual product, contributing approximately **RM113K in sales and RM39K in profit**. In contrast, **Beauty** underperformed, generating approximately **RM49K in sales** with a low **14.08% profit margin**. **Selangor** was also the strongest identifiable market, contributing **RM201.01K in sales and RM55.02K in profit**.
