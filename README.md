@@ -53,7 +53,7 @@ UrbanMart wants to better understand its sales and profitability performance acr
 
 ### Specific
 
-Analyse e-commerce sales, customers, products, regions, discounts, and profitability.
+Analyse e-commerce sales, products, regions, discounts, and profitability.
 
 ### Measurable
 
@@ -65,8 +65,6 @@ Measure key business metrics including:
 - Average Order Value (AOV)
 - Product & category contribution
 - Regional performance
-- Customer value
-- Discount effectiveness
 - Profit & profit margin
 
 ### Achievable
@@ -83,7 +81,7 @@ Analyse business performance across the available reporting period.
 
 ### Objective
 
-> To analyse e-commerce sales and customer transaction data over the available reporting period to identify key revenue drivers, customer segments, product and regional performance, discount effectiveness, and opportunities for improving sales and profitability.
+> To analyse e-commerce sales and customer transaction data over the available reporting period to identify key revenue drivers, product and regional performance, discount effectiveness, and opportunities for improving sales and profitability.
 
 ---
 
